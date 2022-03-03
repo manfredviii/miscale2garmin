@@ -19,14 +19,14 @@
   - Weight **_(kg units only)_**;
 - Synchronization diagram from Mi Body Composition Scale 2 to Garmin Connect:
 
-![alt text](https://github.com/manfredviii/miscale2garmin/blob/master/pic/workflow.png)
+![alt text](https://github.com/manfredviii/miscale2garmin/pic/workflow.png)
 
 ## 2. Getting the MAC address of Mi Body Composition Scale 2
 - Install Xiaomi Mi Fit App on your mobile device, user manual: https://files.xiaomi-mi.com/files/smart_scales/smart_scales-EN.pdf;
 - Configure your scale with Xiaomi Mi Fit App on your mobile device (tested on Android 10 and 11);
 - Retrieve scale's MAC Address from Xiaomi Mi Fit App (go to Profile > My devices > Mi Body Composition Scale 2):
 
-![alt text](https://github.com/manfredviii/miscale2garmin/blob/master/pic/mac_addr.png)
+![alt text](https://github.com/manfredviii/miscale2garmin/pic/mac_addr.png)
 
 ## 3. RASPBERRY BLE VERSION
 ### 3.1. How does this work ?
