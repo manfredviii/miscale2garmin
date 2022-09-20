@@ -91,7 +91,7 @@ Mi Body Composition Scale 2 Garmin Connect v3.0 (scanner_ble.py)
 - Script "export_garmin.py" supports multiple users with individual weights ranges, we can link multiple accounts with Garmin Connect
 es:
 ```
-users = [User("male", 172, '13-12-1983', "paolomonfredini@gmail.com", "Vivafm40", 78, 67), User("female", 164, '27-10-1981', "casa.monfredini@gmail.com", "Condino1", 66, 52)];
+users = [User("male", 172, '13-12-1983', "paolomonfredini@gmail.com", "password", 78, 67), User("female", 164, '27-10-1981', "casa.monfredini@gmail.com", "password", 66, 52)];
 ```
 - Script "import_ble.sh" has implemented debug mode, you can verify if everything is working properly, just execute it from console:
 ```
